@@ -2,7 +2,6 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.j2eedt.core.MYECLIPSE_JAVAEE_5_CONTAINER"/>
-	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
 	<classpathentry kind="lib" path="F:/Jar File/Spring 4.1.6/MVC Required File/commons-logging-1.2.jar"/>
 	<classpathentry kind="lib" path="F:/Jar File/Spring 4.1.6/MVC Required File/spring-aop-4.3.9.RELEASE.jar"/>
